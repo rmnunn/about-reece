@@ -1,4 +1,14 @@
 h1 {
 	color: blue;
-	font-size: large;
+	font-size: xx-large;
+	font-family: Bahnschrift;
+}
+
+p {
+	font-family: Calibri;
+}
+
+img {
+	height: 300px;
+	width: auto;
 }
