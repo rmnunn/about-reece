@@ -1,14 +1,30 @@
 h1 {
-	color: blue;
+	color: black;
 	font-size: xx-large;
 	font-family: Bahnschrift;
 }
 
 p {
 	font-family: Calibri;
+
 }
 
 img {
 	height: 300px;
 	width: auto;
+}
+
+.center {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+.centerLeft {
+	text-align: left;
+	margin-left: 30em;
+}
+
+body {
+	background-color: aliceblue;
 }
